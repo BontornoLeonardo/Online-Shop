@@ -5,3 +5,6 @@ vorhandene Programmiersprachen:
 - CSS
 - Javascript
 - PHP
+
+
+<b>Info: </b><i>Die Links zu dieser Webseite habe ich leider nicht mehr.</i>
